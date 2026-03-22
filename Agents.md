@@ -1,0 +1,3 @@
+- Store all documentation in dissect dir
+- Create subdirectories for better organization if needed
+- Always use existing documentation from dissect dir before creating new one
